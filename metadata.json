@@ -1,0 +1,6 @@
+{
+  "name": "OriginOS 6 Ultra Launcher",
+  "description": "A premium Android launcher inspired by OriginOS 6 with smooth animations, custom widgets, and advanced features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
